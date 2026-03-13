@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+anthropic
+sentence-transformers
+faiss-cpu
+numpy
+langchain
+langchain-community
+langchain-text-splitters
+pypdf
+python-multipart
+jinja2
